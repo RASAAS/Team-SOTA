@@ -7,11 +7,11 @@ As an ambitious and extensive project, TEAM-SOTA needs your expertise and enthus
 
 ## Benefits of Joining TEAM-SOTA:
 
-**Professional Growth**: Collaborate with experts and peers in the field, enhancing your professional knowledge and industry perspective.
-**Resource Sharing**: Gain priority access to the latest research and technical information on medical devices.
-**Industry Influence**: Contribute to an open-source project, boosting your and your organization's visibility in the industry.
-**Career Opportunities**: Showcase your expertise through the project, expand your professional network, and open up more career development opportunities.
-**Public Contribution**: Make a meaningful contribution to the global medical device industry, gaining a sense of accomplishment and purpose.
+- **Professional Growth**: Collaborate with experts and peers in the field, enhancing your professional knowledge and industry perspective.
+- **Resource Sharing**: Gain priority access to the latest research and technical information on medical devices.
+- **Industry Influence**: Contribute to an open-source project, boosting your and your organization's visibility in the industry.
+- **Career Opportunities**: Showcase your expertise through the project, expand your professional network, and open up more career development opportunities.
+- **Public Contribution**: Make a meaningful contribution to the global medical device industry, gaining a sense of accomplishment and purpose.
 
 If you are passionate about advancing SOTA research in medical devices and eager to collaborate on this significant endeavor, you are welcome to join TEAM-SOTA and let's create a better database for medtech together!
 
