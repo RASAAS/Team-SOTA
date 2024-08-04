@@ -111,7 +111,7 @@ Read every article that is relevant and extract the information that can be refe
 
 > **AI tools can make this process much more efficient.**  
 
-For the full-text reading, before using the AI tool, it is recommended to [Convert the PDF to Markdown](GitHub-Collab..md) file for better analysis by the AI. 
+For the full-text reading, before using the AI tool, it is recommended to [Convert the PDF to Markdown](GitHub_Collab..md) file for better analysis by the AI. 
 
 
 
