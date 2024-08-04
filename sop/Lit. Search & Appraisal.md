@@ -109,17 +109,9 @@ Based on the articles' titles and abstracts to determine the relevance.
 
 Read every article that is relevant and extract the information that can be referenced in the CEP/CER for #SOTA.
 
-> **AI tools can make this process much more efficient.**  
+> **AI tools can make this process much more efficient.**   
 
-<<<<<<< Updated upstream
-For the full-text reading, before using the AI tool, it is recommended to [Convert the PDF to Markdown](GitHub%20Collab..md) file for better analysis by the AI. 
-=======
-For the full-text reading, before using the AI tool, it is recommended to [Convert the PDF to Markdown](GitHub20%Collab..md) file for better analysis by the AI. 
->>>>>>> Stashed changes
-
-
-
-
+For the full-text reading, before using the AI tool, it is recommended to [Convert the PDF to Markdown](GitHub20%Collab..md) file for better analysis by the AI.
 
 
 
